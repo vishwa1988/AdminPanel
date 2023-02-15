@@ -1,5 +1,6 @@
 # AdminPanel
-Angular and .Netcore.
-kindly run .net core application first.
-.net core inmemory DB is used for Database and swagger documentation.
+Angular and DotNet core.
+kindly run Dot net core application first.
+Dot net core inmemory DB is used for Database and swagger documentation.
 kindly change angular Api base URL in AdminPanel\src\services\orderService.ts file.
+Screen shots are added
